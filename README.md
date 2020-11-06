@@ -1,6 +1,6 @@
 ### Student Software Engineer 🎓
 
-[![Raffi's github stats](https://github-readme-stats.vercel.app/api?username=raffibaihaqy02&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Raffi's github stats](https://github-readme-stats.vercel.app/api?username=raffibaihaqy02&show_icons=true&theme=tokyonight)]
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Language: Indonesian & English
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffibaihaqy02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffibaihaqy02&layout=compact)]
