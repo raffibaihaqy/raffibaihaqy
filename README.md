@@ -1,4 +1,4 @@
-### Student Software Engineer 🎓
+### Ordinary Coder 💻
 
 ![Raffi's github stats](https://github-readme-stats.vercel.app/api?username=raffibaihaqy02&show_icons=true&theme=tokyonight)
 
