@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffibaihaqy02&layout=compact)
 
+### Social ✋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raffibaihaqy02.raffibaihaqy02)
 ![image](https://img.shields.io/badge/+6283841430561-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/importnumpy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![image](https://img.shields.io/badge/raffibaihaqy02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![image](https://img.shields.io/badge/baihaqyraffi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![image](https://img.shields.io/badge/raffibaihaqy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
