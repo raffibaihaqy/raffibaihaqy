@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 😄 Language: Indonesian & English
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffibaihaqy02&layout=compact)
 
 ### Social ✋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raffibaihaqy02.raffibaihaqy02)
