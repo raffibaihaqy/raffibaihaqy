@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 
 
 ### Social ✋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=raffibaihaqy02.raffibaihaqy02)
 ![image](https://img.shields.io/badge/raffibaihaqy02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/baihaqyraffi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![image](https://img.shields.io/badge/raffibaihaqy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
