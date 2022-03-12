@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/raffibaihaqy02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/baihaqyraffi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![image](https://img.shields.io/badge/raffibaihaqy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/raffibaihaqy-1500b5?style=for-the-badge&logo=facebook&logoColor=white)
