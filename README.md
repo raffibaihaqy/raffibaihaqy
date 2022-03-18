@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [WebTestProject](https://github.com/raffibaihaqy02/WebTestProject)
-- 🌱 I’m currently learning [TensorFlow](https://www.tensorflow.org) with the best tutor from [PyImageSearch](https://www.pyimagesearch.com)
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) with tutor from [#JuaraAndroid](https://gdg.community.dev/events/details/google-gdg-jakarta-presents-info-session-juaraandroid-season-1/)
 - 📫 How to reach me: raffibaihaqy02@gmail.com
 - 😄 Language: Indonesian & English
 
