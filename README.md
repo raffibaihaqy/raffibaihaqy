@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently working on [PrivateProject](https://github.com/raffibaihaqy/WebProject)
+- 🔭 Currently working on private project
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) with mentor from [#JuaraAndroid](https://gdg.community.dev/events/details/google-gdg-jakarta-presents-info-session-juaraandroid-season-1/)
 - 📫 How to reach me: raffibaihaqy02@gmail.com
 - 😄 Language: Indonesian & English
