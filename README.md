@@ -2,7 +2,7 @@
 
 ![Raffi's github stats](https://github-readme-stats.vercel.app/api?username=raffibaihaqy&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+
 
 - 🔭 Currently working on private project
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/) with mentor from [#JuaraAndroid](https://gdg.community.dev/events/details/google-gdg-jakarta-presents-info-session-juaraandroid-season-1/)
