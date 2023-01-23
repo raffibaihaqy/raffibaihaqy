@@ -1,6 +1,6 @@
 ### Ordinary Coder 💻
 
-![Raffi's github stats](https://github-readme-stats.vercel.app/api?username=raffibaihaqy&show_icons=true&theme=tokyonight)
+![Raffi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raffibaihaqy&&show_icons=true&theme=tokyonight)
 
 
 
